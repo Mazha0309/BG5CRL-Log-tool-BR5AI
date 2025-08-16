@@ -2,3 +2,5 @@
 
 请访问https://mazha.guppy.ltd
 或https://br5ai.mazha0309.eu.org
+
+特别鸣谢BG5EWX GUPPY团队为本项目提供服务器
